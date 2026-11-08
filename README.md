@@ -5,4 +5,4 @@ npm run render
 
 ## Contrastes TV
 
-La carpeta [`contrastes-tv/`](contrastes-tv/) contiene el kit de skills de periodismo digital de **Contrastes TV**, listo para separarse en su propio repositorio.
+El kit de skills de periodismo digital de **Contrastes TV** vive en su propio repositorio: [jntamaru92-lab/CONTRASTES-TV](https://github.com/jntamaru92-lab/CONTRASTES-TV).
